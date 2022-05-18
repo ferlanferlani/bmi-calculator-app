@@ -1,3 +1,3 @@
 # bmi-calculator-app
 
-http://mgbmicalculator.epizy.com/
+http://mathgenius.epizy.com/
